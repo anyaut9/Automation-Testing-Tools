@@ -1,0 +1,2 @@
+# Automation-Testing-Tools
+The software industry is registering a continuous and consistent growth. Now the entire world is turning towards hundred percent digitization which has resulted in the need for more and more software applications. Many existing applications need to be updated and upgraded to meet the new requirements. In this situation, the growth of the industry will continue for a few more decades for sure.
